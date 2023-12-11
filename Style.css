@@ -1,0 +1,26 @@
+main{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+.color{
+    background-color: rgb(100, 99, 99) ;
+}
+.logo{
+    padding-left: 960px;
+    font-size: 20px;
+    color: white;
+}
+.menu{
+    padding: 0px 70px 0px 70px;
+}
+.other{
+    padding: 0px 70px 0px 70px;
+}
+header ul .logo{
+    padding: 5px 1400px 0px 0px;
+}
+footer{
+    padding: 0px 0px 3px 0px;
+}
